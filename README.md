@@ -1,26 +1,11 @@
 ## Hi there 👋
-
-<!--
-**psisprogramer/psisprogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </br></br>
 <p align="center">
 <img src="https://img.icons8.com/color/26/000000/github-2.png"/>
 </p>
 
 <samp>
-I'm Carolina. A Computer Science student with an interdisciplinary background, focused on research-oriented work at the intersection of technology, artificial intelligence, and art.
+I'm Psis ✨. A Computer Science student with an interdisciplinary background, focused on research-oriented work at the intersection of technology, artificial intelligence, and art.
 </samp>
 </br></br>
 <samp>
