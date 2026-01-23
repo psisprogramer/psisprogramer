@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://img.icons8.com/color/26/000000/github-2.png"/>
 </p>
-
 <samp>
 I'm Psis ✨. A Computer Science student with an interdisciplinary background, focused on research-oriented work at the intersection of technology, artificial intelligence, and art.
 </samp>
