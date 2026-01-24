@@ -12,23 +12,23 @@ My approach to computing is shaped by my training in art and visual communicatio
 </samp>
 </br></br>
 <samp>
-Academic interests
-- Artificial Intelligence and computational reasoning  
-- Problem solving and logical thinking  
-- Interdisciplinary research  
-- Creative and social applications of technology  
+⭐Academic interests</br></br>
+- Artificial Intelligence and computational reasoning  </br></br>
+- Problem solving and logical thinking  </br></br>
+- Interdisciplinary research  </br></br>
+- Creative and social applications of technology  </br></br>
 </samp>
 </br></br>
 <samp>
-Tools & language
-- Python  
-- JavaScript  
-- HTML & CSS  
-- C++
+⭐Tools & language</br></br>
+- Python  </br></br>
+- JavaScript  </br></br>
+- HTML & CSS  </br></br>
+- C++</br></br>
 </samp>
 </br></br>
 <samp>
-Current focus
+⭐Current focus</br></br>
 I am currently strengthening my foundations in computer science and AI through academic projects, experimentation, and independent study, with a particular interest in research-oriented work and socially impactful technology.
 </samp>
 </br></br>
