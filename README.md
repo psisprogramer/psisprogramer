@@ -11,7 +11,7 @@ It's Psis here ✨.I'm a Computer Science and Artificial Intelligence student wi
 My approach to computing is shaped by my training in art and visual communication, combining analytical thinking, creativity, and a human-centered perspective. I am interested in understanding technology not only as a technical system, but also as a cultural, social, and ethical tool.
 </samp>
 </br></br>
-<samp>
+<samp></br></br>
 ⭐Academic interests</br></br>
 - Artificial Intelligence and computational reasoning  </br></br>
 - Problem solving and logical thinking  </br></br>
