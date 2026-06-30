@@ -47,15 +47,6 @@ The universe is not a textbook. It's a simulation waiting to be built.
 
 </div>
 
----
-
-### Hi, I'm Carolina 👋
-
-I'm a Computer Science & AI Engineering student based in Bogotá, Colombia — and I've been convinced since my first semester that the best way to understand something is to build it.
-
-I lead **Eris**, a real-time 3D space simulation that models gravity and orbital mechanics — not to explain physics, but to make you *feel* it. Built with React, Three.js, and custom GLSL shaders. Live at [eris-seven.vercel.app](https://eris-seven.vercel.app).
-
-I'm also an artist and visual communicator. That's not a side note — it's why my interfaces look the way they do.
 
 ---
 
