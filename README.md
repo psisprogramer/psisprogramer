@@ -77,14 +77,6 @@ I'm part of **SAROS** — a Mathematics & Astronomy research group at Universida
 
 ---
 
-### Currently
-
-- 🔭 Building the next version of Eris
-- ☁️ Getting cloud certified (AWS or GCP)
-- 🌍 Working toward an international internship or remote role in AI/tech
-- 📖 Learning every day at B1 → B2 English
-
----
 
 <div align="center">
 
