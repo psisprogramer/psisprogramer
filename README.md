@@ -24,7 +24,7 @@ My approach to computing is shaped by my training in art and visual communicatio
 - Python  </br></br>
 - JavaScript  </br></br>
 - HTML & CSS  </br></br>
-- C++</br></br>
+
 </samp>
 </br></br>
 <samp>
